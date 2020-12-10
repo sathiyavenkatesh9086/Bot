@@ -1,0 +1,35 @@
+h3 {
+  position: absolute;
+  right: 18px;
+  font-weight: 600px;
+  font-size: 28px;
+  margin: 5px 0;
+  color: white;
+}
+
+#message {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 400px;
+  background-color: white;
+}
+
+#message {
+  position: absolute;
+  bottom: 50px;
+  top: 40px;
+  right: 0px;
+  font-weight: bolder;
+ color: blue;
+}
+
+#message {
+  overflow-y: scroll;
+}
+
+
+
+
+
