@@ -2,7 +2,7 @@
 - link below
 
 
-<a href="3.139.118.80">MYPIZZA BOT</a>
+<a href="http://3.139.118.80">MYPIZZA BOT</a>
 
 - This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.7.
 
