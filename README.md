@@ -1,20 +1,37 @@
-# BOT
+# PIZZA CHATBOT
 - link below
 
 
 <a href="http://3.139.118.80">MYPIZZA BOT</a>
 
+## Overview
+
+-In this project, pizza can be ordered easily.
+
+-With the help of the buttons available, users can order pizza according to their needs.
+
+-After ordering, an ID is generated for the user.
+
+-User can track the order with the help of generated ID.
+
+
 ## Database
 
-Here MYSQL database is used to store the order details and user details.MySQL is an open-source relational database management system.
+- Here MYSQL database is used to store the order details and user details.
+
+- MySQL is an open-source relational database management system.
 
 ## Angular
 
-Angular framework is used in the project.Angular is a TypeScript-based open-source web application framework.
+- Angular framework is used in the project.
+
+- Angular is a TypeScript-based open-source web application framework.
 
 ## Node JS
 
-Node JS is the backend used here.Node.js is an open source server environment.Node.js runs on various platforms Windows, Linux, Unix etc.
+- Node JS is the backend used here.Node.js is an open source server environment.
+
+- Node.js runs on various platforms Windows, Linux, Unix etc.
 
 ## Installation 
 
