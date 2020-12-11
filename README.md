@@ -1,4 +1,4 @@
-# PIZZA CHATBOT
+## CHATBOT
 - link below
 
 
@@ -6,13 +6,13 @@
 
 ## Overview
 
--In this project, pizza can be ordered easily.
+- In this project, pizza can be ordered easily.
 
--With the help of the buttons available, users can order pizza according to their needs.
+- With the help of the buttons available, users can order pizza according to their needs.
 
--After ordering, an ID is generated for the user.
+- After ordering, an ID is generated for the user.
 
--User can track the order with the help of generated ID.
+- User can track the order with the help of generated ID.
 
 
 ## Database
@@ -45,14 +45,11 @@
 
 - Install command for bearerToken 'npm install express-bearer-token' 
          
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
 ## Build
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
+## Development server
 
-- This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.7.
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
