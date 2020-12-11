@@ -6,14 +6,13 @@
 
 ## Overview
 
-- In this project, pizza can be ordered easily.
+- We've all had Pizzas atleast once in our lives...and most of us have gone back for a second, a third...and so on.
 
-- With the help of the buttons available, users can order pizza according to their needs.
+- This project is, therefore, a simple user friendly platform for users to place their own pizza orders. 
 
-- After ordering, an ID is generated for the user.
+- Customers can order any Pizzas of their choice. Once their order has been placed, a unique Order ID is generated.
 
-- User can track the order with the help of generated ID.
-
+- Users can then track their order with the generated ID, to know the status of their order.
 
 ## Database
 
