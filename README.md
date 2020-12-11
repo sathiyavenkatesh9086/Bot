@@ -4,25 +4,19 @@
 
 <a href="http://3.139.118.80">MYPIZZA BOT</a>
 
-- This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.7.
+## Database
 
-## Development server
+Here MYSQL database is used to store the order details and user details.MySQL is an open-source relational database management system.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Angular
 
-## Build
+Angular framework is used in the project.Angular is a TypeScript-based open-source web application framework.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Node JS
 
-## Running unit tests
+Node JS is the backend used here.Node.js is an open source server environment.Node.js runs on various platforms Windows, Linux, Unix etc.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Installation
+## Installation 
 
 - Install command for express 'npm install express' 
 
@@ -34,6 +28,14 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 - Install command for bearerToken 'npm install express-bearer-token' 
          
-## Further help
+## Development server
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
+
+- This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.7.
+
