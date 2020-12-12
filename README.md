@@ -14,6 +14,10 @@
 
 - Users can then track their order with the generated ID, to know the status of their order.
 
+
+
+<img src="C:\Users\Venkii\Downloads\Pizza Chatbot.jpg">
+
 ## Database
 
 - Here MYSQL database is used to store the order details and user details.
